@@ -15,3 +15,5 @@ Imports:
     Rtsne,
     uwot,
     vegan
+URL: https://github.com/Gnotic/drstable
+BugReports: https://github.com/Gnotic/drstable/issues
